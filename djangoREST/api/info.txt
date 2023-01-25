@@ -1,0 +1,4 @@
+admin / dashboard login information
+
+ username : factos
+ password : 123
